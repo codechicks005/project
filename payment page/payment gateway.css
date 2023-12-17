@@ -1,0 +1,15 @@
+navbar{
+    color: rgb(19, 17, 17);
+    margin: 0;
+    padding: 3%;
+    position: fixed
+}
+h1{
+    color: rgb(6, 7, 7);
+}
+h2{
+    color: rgb(12, 8, 8);
+}
+p1{
+    color: rgb(8, 10, 7);
+}
