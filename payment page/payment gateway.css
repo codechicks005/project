@@ -1,14 +1,25 @@
 navbar{
+<<<<<<< HEAD
     color:rgb(244, 246, 248);;
+=======
+    color: rgb(19, 17, 17);
+>>>>>>> mohan
     margin: 0;
     padding: 3%;
     position: fixed
 }
 h1{
+<<<<<<< HEAD
     color: rgb(7, 10, 10);
 }
 h2{
     color: rgb(12, 11, 11);
+=======
+    color: rgb(6, 7, 7);
+}
+h2{
+    color: rgb(12, 8, 8);
+>>>>>>> mohan
 }
 p1{
     color: rgb(8, 10, 7);
